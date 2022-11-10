@@ -7,7 +7,7 @@ Please address any feedback to Jun Chen chenj@frib.msu.edu
 ## Change history
 
 #### 2022-11
-Bug fix: IE is missing in output file from logft calculations where TI is available with B+ not energetically allowed 
+Bug fix: IE is missing in the output file from logft calculations where TI is available with B+ not energetically allowed 
 
 #### 2022-08
 Beta version 
