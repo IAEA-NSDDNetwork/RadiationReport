@@ -1,4 +1,4 @@
-# RadiationReport-test
+# RadiationReport
 RadiationReport is Java code to calculate energies, intensities and doses of all radiations as well as logft values for a decay dataset. It is an alternative to the RADLIST and LOGFT Fortran codes combined. It can calculate logft values for forbidden-unique decays with order>2 which are calculated incorrectly as allowed 
 decays by the legacy LOGFT code. RadiationReport is part of the [ENSDF Analysis and Utility Programs](https://nds.iaea.org/public/ensdf_pgm/).
 
