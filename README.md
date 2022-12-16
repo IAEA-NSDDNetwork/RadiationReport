@@ -6,6 +6,9 @@ Please address any feedback to Jun Chen chenj@frib.msu.edu
 
 ## Change history
 
+#### 2022-12
+Improvments in dealing with non-numerical uncertainties 
+
 #### 2022-11
 Bug fix: IE is missing in the output file from logft calculations where TI is available with B+ not energetically allowed 
 
