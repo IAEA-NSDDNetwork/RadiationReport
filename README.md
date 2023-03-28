@@ -6,6 +6,9 @@ Please address any feedback to Jun Chen chenj@frib.msu.edu
 
 ## Change history
 
+#### 2023-03
+Bug fix: fix incorrect calculations of energies and intensities of Internal Bremsstrahlung spectrum 
+
 #### 2022-12
 Improvments in dealing with non-numerical uncertainties 
 
