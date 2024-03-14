@@ -7,7 +7,11 @@ Please address any feedback to Jun Chen chenj@frib.msu.edu
 ## Change history
 
 #### 2024-03
-Bug fixes
+Bug fixes and improvements.
+
+Added a simple logft calculator for calculating a single branch from typed information and a logft calculator for branches from a portion of ENSDF datasets copied and pasted into the editor window of the calculator. 
+
+Added possible decay types (logft range, fobiddenness, deltaJ) for each calculated logft in the calculation results based on the updated logft systematics (2023TU03).
 
 #### 2023-05
 Bug fixes
